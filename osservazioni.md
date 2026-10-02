@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché: Ho verificato che il commit è stato
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:Dopo git pull il nuoco commit 06b0b647 è comparso nella cronologia locale e la modifica fatta su git.hub è presente anche nella copia locale. Non è necessarrio rifare git clone perche il depository è gia presente sul computer. Git pull aggiorna la copia locale scaricando le nuoive modifiche dal repository remoto.
 
 ## Step 2 — Eco: prima prova
 
