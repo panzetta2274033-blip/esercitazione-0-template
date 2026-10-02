@@ -1,8 +1,8 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: C25
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi):Simone Panzetta panzetta2274033-blip,Massimo Mannini mannini2167211-hub
 
 URL del repository condiviso:
 
