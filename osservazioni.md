@@ -39,13 +39,13 @@ Che cosa posso concludere:
 
 ## Step 2 — Eco: seconda prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: 
 
 Che cosa ho capito su testo, conversioni e stampa:
 
 ## Step 2 — Risultato ed errori
 
-Previsioni per l'esecuzione con argomenti validi e per quella con `dodici`:
+Previsioni per l'esecuzione con argomenti validi e per quella con `dodici`: 
 
 Contenuto di `eco.txt`, messaggi nel terminale e codici di uscita osservati:
 
