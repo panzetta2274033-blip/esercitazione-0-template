@@ -25,7 +25,7 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: Ho verificato che il commit è stato eseguito correttamente e che contiene le modifiche apportate ad hello.c
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
